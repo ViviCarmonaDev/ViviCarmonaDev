@@ -1,6 +1,8 @@
-## Hey, I'm Viviana !
+<img src="Assets/TarjetaPresentacionvivi.png" align="center" alt="berkeli header image">
 
-* I am 
+<h1 align="center">Hey, I'm Viviana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+* Estudiante en Ingeniería de Sistemas Computacionales, apasionada por aprender y crear soluciones prácticas con tecnologías
 
 ### GitHub stats
 
