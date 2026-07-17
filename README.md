@@ -1,4 +1,4 @@
-<img src="Assets/TarjetaPresentacionvivi.png" align="center" alt="berkeli header image">
+<img src="Assets/perfilvivi.png" align="center" alt="berkeli header image">
 
 <h1 align="center">Hey, I'm Viviana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
